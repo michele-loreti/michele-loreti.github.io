@@ -28,7 +28,8 @@ description: Michele Loreti's Home Page
 navbar-links:
   Research: "research"
   Projects: "projects"
-  Activities: "activities"
+  Software&Tools: "tools"
+  Activities: "activities"  
   Papers:
     - By Years: "papersbyyear"
     - By Type: "papersbytype"
