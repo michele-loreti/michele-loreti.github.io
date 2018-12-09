@@ -1,0 +1,22 @@
+---
+- id: 1
+  title: Journal Papers
+  type: article-journal
+
+- id: 2
+  title: Conference Proceedings
+  type: paper-conference
+
+  
+- id: 3
+  title: Books and Proceedings  
+  type: book
+
+- id: 4
+  title: Book Chapters  
+  type: chapter
+  
+- id: 5
+  title: Other publications
+  type: miscellaneous
+---

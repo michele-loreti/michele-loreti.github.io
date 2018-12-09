@@ -1,0 +1,2507 @@
+---
+- id: J24
+  type: article-journal
+  author:
+  - family: Nenzi
+    given: Laura
+  - family: Bortolussi
+    given: Luca
+  - family: Ciancia
+    given: Vincenzo
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2018
+  title: Qualitative and quantitative monitoring of spatio-temporal properties with
+    SSTL
+  container-title: Logical Methods in Computer Science
+  volume: '14'
+  issue: '4'
+  URL: https://lmcs.episciences.org/2067
+  DOI: 10.23638/LMCS-14(4:2)2018
+
+- id: J23
+  type: article-journal
+  author:
+  - family: Beek
+    given: Maurice H.
+    dropping-particle: ter
+  - family: Loreti
+    given: Michele
+  year: 2018
+  title: Guest editorial for the special issue on formal methods for the quantitative
+    evaluation of collective adaptive systems (FORECAST)
+  container-title: ACM Trans. Model. Comput. Simul.
+  page: 8:1-8:4
+  volume: '28'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/3177772
+  DOI: 10.1145/3177772
+
+- id: J22
+  type: article-journal
+  author:
+  - family: Ciancia
+    given: Vincenzo
+  - family: Gilmore
+    given: Stephen
+  - family: Grilletti
+    given: Gianluca
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2018
+  title: Spatio-temporal model checking of vehicular movement in public transport
+    systems
+  container-title: STTT
+  page: 289-311
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.1007/s10009-018-0483-8
+  DOI: 10.1007/s10009-018-0483-8
+
+- id: J21
+  type: article-journal
+  author:
+  - family: Loreti
+    given: Michele
+  year: 2018
+  title: Replicated computations results (RCR) report for "mesoscopic modelling of
+    pedestrian movement using carma and its tools"
+  container-title: ACM Trans. Model. Comput. Simul.
+  page: 12:1-12:3
+  volume: '28'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/3177773
+  DOI: 10.1145/3177773
+
+- id: C62
+  type: paper-conference
+  author:
+  - family: Vashti 
+    given: Galpin
+  - family: Georgoulas
+    given: Anastasis 
+  - family: Loreti
+    given: Michele
+  - family: Vandin
+    given: Andrea
+  year: 2018
+  title: 'Statistical model checking of carma models using multivesta: An advanced
+    tutorial'
+  title-short: Statistical model checking of carma models using multivesta
+  container-title: "Proceedings of WSC 2018"
+  volume: (to appear)
+
+- id: C61
+  type: paper-conference
+  author:
+  - family: Alrahman
+    given: Yehia Abd
+  - family: De Nicola
+    given: Rocco
+  - family: Garbi
+    given: Giulio
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Baier
+    given: Christel
+  - family: Caires
+    given: Luìs
+  year: 2018
+  title: A distributed coordination infrastructure for attribute-based interaction
+  container-title: Formal techniques for distributed objects, components, and systems
+    - 38th IFIP WG 6.1 international conference, FORTE 2018, held as part of the 13th
+    international federated conference on distributed computing techniques, discotec
+    2018, madrid, spain, june 18-21, 2018, proceedings
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 1-20
+  volume: '10854'
+  URL: https://doi.org/10.1007/978-3-319-92612-4\_1
+  DOI: 10.1007/978-3-319-92612-4\_1
+
+- id: C60
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Katoen
+    given: Joost-Pieter
+  - family: Langerak
+    given: Rom
+  - family: Rensink
+    given: Arend
+  year: 2017
+  title: 'FlyFast: A scalable approach to probabilistic model-checking based on
+    mean-field approximation'
+  title-short: FlyFast
+  container-title: ModelEd, tested, trusted - essays dedicated to ed brinksma on the
+    occasion of his 60th birthday
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 254-275
+  volume: '10500'
+  DOI: 10.1007/978-3-319-68270-9_13
+
+- id: C59
+  type: paper-conference
+  author:
+  - family: Bartocci
+    given: Ezio
+  - family: Bortolussi
+    given: Luca
+  - family: Loreti
+    given: Michele
+  - family: Nenzi
+    given: Laura
+  editor:
+  - family: Talpin
+    given: Jean-Pierre
+  - family: Derler
+    given: Patricia
+  - family: Schneider
+    given: Klaus
+  year: 2017
+  title: Monitoring mobile and spatially distributed cyber-physical systems
+  container-title: Proceedings of the 15th ACM-IEEE international conference on formal
+    methods and models for system design, MEMOCODE 2017, vienna, austria, september
+    29 - october 02, 2017
+  publisher: ACM
+  page: 146-155
+  DOI: 10.1145/3127041.3127050
+  ISBN: 978-1-4503-5093-8
+
+- id: C58
+  type: paper-conference
+  author:
+  - family: Vissat
+    given: Ludovica Luisa
+  - family: Loreti
+    given: Michele
+  - family: Nenzi
+    given: Laura
+  - family: Hillston
+    given: Jane
+  - family: Marion
+    given: Glenn
+  editor:
+  - family: Bertrand
+    given: Nathalie
+  - family: Bortolussi
+    given: Luca
+  year: 2017
+  title: 'Three-valued spatio-temporal logic: A further analysis on spatio-temporal
+    properties of stochastic systems'
+  title-short: Three-valued spatio-temporal logic
+  container-title: Quantitative evaluation of systems - 14th international conference,
+    QEST 2017, berlin, germany, september 5-7, 2017, proceedings
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 317-332
+  volume: '10503'
+  URL: https://doi.org/10.1007/978-3-319-66335-7_22
+  DOI: 10.1007/978-3-319-66335-7_22
+
+- id: C57
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Legay
+    given: Axel
+  - family: Margaria
+    given: Tiziana
+  year: 2017
+  title: 'FlyFast: A mean field model checker'
+  title-short: FlyFast
+  container-title: Tools and algorithms for the construction and analysis of systems
+    - 23rd international conference, TACAS 2017, held as part of the european joint
+    conferences on theory and practice of software, ETAPS 2017, uppsala, sweden, april
+    22-29, 2017, proceedings, part II
+  collection-title: Lecture Notes in Computer Science
+  page: 303-309
+  volume: '10206'
+  DOI: 10.1007/978-3-662-54580-5_18
+
+- id: J20
+  type: article-journal
+  author:
+  - family: Lluch-Lafuente
+    given: Alberto
+  - family: Loreti
+    given: Michele
+  - family: Montanari
+    given: Ugo
+  year: 2017
+  title: Asynchronous distributed execution of fixpoint-based computational fields
+  container-title: Logical Methods in Computer Science
+  volume: '13'
+  issue: '1'
+  URL: https://doi.org/10.23638/LMCS-13(1:13)2017
+  DOI: 10.23638/LMCS-13(1:13)2017
+
+- id: C56
+  type: paper-conference
+  author:
+  - family: Alrahman
+    given: Yehia Abd
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Margaria
+    given: Tiziana
+  - family: Steffen
+    given: Bernhard
+  year: 2016
+  title: <span class="nocase">Programming of CAS Systems by Relying on Attribute-Based
+    Communication</span>
+  container-title: 'Leveraging applications of formal methods, verification and
+    validation: Foundational techniques - 7th international symposium, isola 2016,
+    imperial, c'
+  collection-title: Lecture Notes in Computer Science
+  page: 539-553
+  volume: '9952'
+  URL: http://dx.doi.org/10.1007/978-3-319-47166-2_38
+  DOI: 10.1007/978-3-319-47166-2_38
+  ISBN: 978-3-319-47165-5
+
+- id: C55
+  type: paper-conference
+  author:
+  - family: Alrahman
+    given: Yehia Abd
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Albert
+    given: Elvira
+  - family: Lanese
+    given: Ivan
+  year: 2016
+  title: <span class="nocase">On the Power of Attribute-Based Communication</span>
+  container-title: Formal techniques for distributed objects, components, and systems
+    - 36th ifip wg 6.1 international conference, forte 2016
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 1-18
+  volume: '9688'
+  URL: http://dx.doi.org/10.1007/978-3-319-39570-8
+  DOI: 10.1007/978-3-319-39570-8
+  ISBN: 978-3-319-39569-2
+
+- id: C54
+  type: paper-conference
+  author:
+  - family: Hillston
+    given: Jane
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Agha
+    given: Gul
+  - family: Houdt
+    given: Benny Van
+  year: 2016
+  title: '<span class="nocase">CARMA Eclipse Plug-in: A Tool Supporting Design and
+    Analysis of Collective Adaptive Systems</span>'
+  container-title: Quantitative evaluation of systems - 13th international conference,
+    qest 2016, quebec city, qc, canada, august 23-25, 2016, proceedings
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 167-171
+  volume: '9826'
+  URL: http://dx.doi.org/10.1007/978-3-319-43425-4_12
+  DOI: 10.1007/978-3-319-43425-4_12
+  ISBN: 978-3-319-43424-7
+
+- id: C53
+  type: paper-conference
+  author:
+  - family: Loreti
+    given: Michele
+  - family: Hillston
+    given: Jane
+  editor:
+  - family: Bernardo
+    given: Marco
+  - family: Nicola
+    given: Rocco De
+  - family: Hillston
+    given: Jane
+  year: 2016
+  title: <span class="nocase">Modelling and Analysis of Collective Adaptive Systems
+    with CARMA and its Tools</span>
+  container-title: Formal methods for the quantitative evaluation of collective adaptive
+    systems - 16th international school on formal methods for the design of computer
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 83-119
+  volume: '9700'
+  URL: http://dx.doi.org/10.1007/978-3-319-34096-8
+  DOI: 10.1007/978-3-319-34096-8
+  ISBN: 978-3-319-34095-1
+
+- id: C52
+  type: paper-conference
+  author:
+  - family: Ciancia
+    given: Vincenzo
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Bernardo
+    given: Marco
+  - family: Nicola
+    given: Rocco De
+  - family: Hillston
+    given: Jane
+  year: 2016
+  title: <span class="nocase">Spatial Logic and Spatial Model Checking for Closure
+    Spaces</span>
+  container-title: Formal methods for the quantitative evaluation of collective adaptive
+    systems - 16th international school on formal methods for the design of computer
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 156-201
+  volume: '9700'
+  URL: http://dx.doi.org/10.1007/978-3-319-34096-8
+
+- id: P2
+  type: book
+  author:
+  - family: Beek
+    given: Maurice H. ter
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Beek
+    given: Maurice H.
+    dropping-particle: ter
+  - family: Loreti
+    given: Michele
+  year: 2016
+  title: <span class="nocase">Proceedings of the Workshop on FORmal methods for the
+    quantitative Evaluation of Collective Adaptive SysTems, FORECAST\@STAF 2016, Vienna,
+    Austria, 8 July 2016</span>
+  collection-title: EPTCS
+  volume: '217'
+  URL: http://dx.doi.org/10.4204/EPTCS.217
+  DOI: 10.4204/EPTCS.217
+
+- id: P1
+  type: book
+  author:
+  - family: Ganty
+    given: Pierre
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Ganty
+    given: Pierre
+  - family: Loreti
+    given: Michele
+  year: 2016
+  title: Trustworthy Global Computing - 10th International Symposium, TGC 2015, Madrid,
+    Spain, August 31 - September 1, 2015 Revised Selected Papers
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  volume: '9533'
+  URL: http://dx.doi.org/10.1007/978-3-319-28766-9
+  DOI: 10.1007/978-3-319-28766-9
+  ISBN: 978-3-319-28765-2
+
+- id: J19
+  type: article-journal
+  author:
+  - family: Ciancia
+    given: Vincenzo
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2016
+  title: <span class="nocase">Model Checking Spatial Logics for Closure Spaces</span>
+  container-title: Logical Methods in Computer Science
+  volume: '12'
+  URL: http://lmcs.episciences.org/2067
+  DOI: 10.2168/LMCS-12(4:2)2016
+
+- id: J18
+  type: article-journal
+  author:
+  - family: Crescenzi
+    given: Pierluigi
+  - family: Loreti
+    given: Michele
+  year: 2016
+  title: <span class="nocase">Preface of Proceedings of ICTCS 2015</span>
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 1-2
+  volume: '322'
+  URL: http://dx.doi.org/10.1016/j.entcs.2016.03.001
+  DOI: 10.1016/j.entcs.2016.03.001
+
+- id: J17
+  type: article-journal
+  author:
+  - family: Chiti
+    given: Francesco
+  - family: Fantacci
+    given: Romano
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  year: 2016
+  title: '<span class="nocase">Context-aware wireless mobile autonomic computing
+    and communications: research trends and emerging applications</span>'
+  container-title: IEEE Wireless Commun.
+  page: 86-92
+  volume: '23'
+  issue: '2'
+  URL: http://dx.doi.org/10.1109/MWC.2016.7462489
+  DOI: 10.1109/MWC.2016.7462489
+
+- id: BC4
+  type: chapter
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2015
+  title: '<span class="nocase">Quantitative Analysis of Distributed Systems in Stoklaim:
+    A Tutorial</span>'
+  container-title: Quantitative assessments of distributed systems
+  publisher: John Wiley & Sons
+  page: 27-55
+  URL: http://dx.doi.org/10.1002/9781119131151.ch2
+  DOI: 10.1002/9781119131151.ch2
+  ISBN: '9781119131151'
+
+- id: J16
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2015
+  title: <span class="nocase">Revisiting bisimilarity and its modal logic for nondeterministic
+    and probabilistic processes</span>
+  container-title: Acta Inf.
+  page: 61-106
+  volume: '52'
+  issue: '1'
+  URL: http://dx.doi.org/10.1007/s00236-014-0210-1
+  DOI: 10.1007/s00236-014-0210-1
+
+- id: J15
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: Gebler
+    given: Daniel
+  - family: Loreti
+    given: Michele
+  year: 2015
+  title: <span class="nocase">Editorial for the Special Issue on Open Problems in
+    Concurrency Theory</span>
+  container-title: J. Log. Algebr. Meth. Program.
+  page: '731'
+  volume: '84'
+  issue: '6'
+  URL: http://dx.doi.org/10.1016/j.jlamp.2015.10.002
+  DOI: 10.1016/j.jlamp.2015.10.002
+
+- id: J14
+  type: article-journal
+  author:
+  - family: Boreale
+    given: Michele
+  - family: Bruni
+    given: Roberto
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2015
+  title: '<span class="nocase">CaSPiS: a calculus of sessions, pipelines and services</span>'
+  container-title: Mathematical Structures in Computer Science
+  page: 666-709
+  volume: '25'
+  issue: '3'
+  URL: http://dx.doi.org/10.1017/S0960129512000953
+  DOI: 10.1017/S0960129512000953
+
+- id: J13
+  type: article-journal
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2015
+  title: <span class="nocase">On-the-fly PCTL fast mean-field approximated model-checking
+    for self-organising coordination</span>
+  container-title: Sci. Comput. Program.
+  page: 23-50
+  volume: '110'
+  URL: http://dx.doi.org/10.1016/j.scico.2015.06.009
+  DOI: 10.1016/j.scico.2015.06.009
+
+- id: C51
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  - family: Senni
+    given: Valerio
+  editor:
+  - family: Nicola
+    given: Rocco De
+  - family: Hennicker
+    given: Rolf
+  year: 2015
+  title: '<span class="nocase">On StocS: A Stochastic Extension of SCEL</span>'
+  container-title: Software, services, and systems - essays dedicated to martin wirsing
+    on the occasion of his retirement from the chair of programming and software engi
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 619-640
+  volume: '8950'
+  URL: http://dx.doi.org/10.1007/978-3-319-15545-6
+  DOI: 10.1007/978-3-319-15545-6
+  ISBN: 978-3-319-15544-9
+
+- id: C50
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Holvoet
+    given: Tom
+  - family: Viroli
+    given: Mirko
+  year: 2015
+  title: <span class="nocase">Investigating Fluid-Flow Semantics of Asynchronous Tuple-Based
+    Process Languages for Collective Adaptive Systems</span>
+  container-title: Coordination models and languages - 17th ifip wg 6.1 international
+    conference, coordination 2015, held as part of the 10th international federated
+    con
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 19-34
+  volume: '9037'
+  URL: http://dx.doi.org/10.1007/978-3-319-19282-6
+  DOI: 10.1007/978-3-319-19282-6
+  ISBN: 978-3-319-19281-9
+
+- id: C49
+  type: paper-conference
+  author:
+  - family: Lluch-Lafuente
+    given: Alberto
+  - family: Loreti
+    given: Michele
+  - family: Montanari
+    given: Ugo
+  editor:
+  - family: Holvoet
+    given: Tom
+  - family: Viroli
+    given: Mirko
+  year: 2015
+  title: <span class="nocase">A Fixpoint-Based Calculus for Graph-Shaped Computational
+    Fields</span>
+  container-title: Coordination models and languages - 17th ifip wg 6.1 international
+    conference, coordination 2015, held as part of the 10th international federated
+    con
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 101-116
+  volume: '9037'
+  URL: http://dx.doi.org/10.1007/978-3-319-19282-6
+
+- id: C48
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Beltrán
+    given: Marta
+  - family: Knottenbelt
+    given: William J.
+  - family: Bradley
+    given: Jeremy T.
+  year: 2015
+  title: <span class="nocase">On-the-fly Fluid Model Checking via Discrete Time Population
+    Models</span>
+  container-title: Computer performance engineering - 12th european workshop, epew
+    2015, madrid, spain, august 31 - september 1, 2015, proceedings
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 193-207
+  volume: '9272'
+  URL: http://dx.doi.org/10.1007/978-3-319-23267-6
+  DOI: 10.1007/978-3-319-23267-6
+  ISBN: 978-3-319-23266-9
+
+- id: C47
+  type: paper-conference
+  author:
+  - family: Nenzi
+    given: Laura
+  - family: Bortolussi
+    given: Luca
+  - family: Ciancia
+    given: Vincenzo
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Bartocci
+    given: Ezio
+  - family: Majumdar
+    given: Rupak
+  year: 2015
+  title: <span class="nocase">Qualitative and Quantitative Monitoring of Spatio-Temporal
+    Properties</span>
+  container-title: Runtime verification - 6th international conference, rv 2015 vienna,
+    austria, september 22-25, 2015. Proceedings
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 21-37
+  volume: '9333'
+  URL: http://dx.doi.org/10.1007/978-3-319-23820-3
+  DOI: 10.1007/978-3-319-23820-3
+  ISBN: 978-3-319-23819-7
+
+- id: C46
+  type: paper-conference
+  author:
+  - family: Alrahman
+    given: Yehia Abd
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  - family: Tiezzi
+    given: Francesco
+  - family: Vigo
+    given: Roberto
+  editor:
+  - family: Wainwright
+    given: Roger L.
+  - family: Corchado
+    given: Juan Manuel
+  - family: Bechini
+    given: Alessio
+  - family: Hong
+    given: Jiman
+  year: 2015
+  title: <span class="nocase">A calculus for attribute-based communication</span>
+  container-title: Proceedings of the 30th annual acm symposium on applied computing,
+    salamanca, spain, april 13-17, 2015
+  publisher: ACM
+  page: 1840-1845
+  URL: http://dl.acm.org/citation.cfm?id=2695664
+  DOI: 10.1145/2695664.2695668
+  ISBN: 978-1-4503-3196-8
+
+- id: C45
+  type: paper-conference
+  author:
+  - family: Abeywickrama
+    given: Dhaminda B.
+  - family: Serbedzija
+    given: Nikola B.
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Wainwright
+    given: Roger L.
+  - family: Corchado
+    given: Juan Manuel
+  - family: Bechini
+    given: Alessio
+  - family: Hong
+    given: Jiman
+  year: 2015
+  title: <span class="nocase">Monitoring and visualizing adaptation of autonomic systems
+    at runtime</span>
+  container-title: Proceedings of the 30th annual acm symposium on applied computing,
+    salamanca, spain, april 13-17, 2015
+  publisher: ACM
+  page: 1857-1860
+  URL: http://dl.acm.org/citation.cfm?id=2695664
+  DOI: 10.1145/2695664.2695983
+
+- id: C44
+  type: paper-conference
+  author:
+  - family: Ciancia
+    given: Vincenzo
+  - family: Grilletti
+    given: Gianluca
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Bianculli
+    given: Domenico
+  - family: Calinescu
+    given: Radu
+  - family: Rumpe
+    given: Bernhard
+  year: 2015
+  title: An Experimental Spatio-Temporal Model Checker
+  container-title: 'Software engineering and formal methods - sefm 2015 collocated
+    workshops: ATSE, hofm, mokmasd, and very\*SCART, york, uk, september 7-8, 2015,
+    revised'
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 297-311
+  volume: '9509'
+  URL: http://dx.doi.org/10.1007/978-3-662-49224-6
+  DOI: 10.1007/978-3-662-49224-6
+  ISBN: 978-3-662-49223-9
+
+- id: C43
+  type: paper-conference
+  author:
+  - family: Bortolussi
+    given: Luca
+  - family: De Nicola
+    given: Rocco
+  - family: Galpin
+    given: Vashti
+  - family: Gilmore
+    given: Stephen
+  - family: Hillston
+    given: Jane
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Bertrand
+    given: Nathalie
+  - family: Tribastone
+    given: Mirco
+  year: 2015
+  title: '<span class="nocase">CARMA: Collective Adaptive Resource-sharing Markovian
+    Agents</span>'
+  container-title: Proceedings thirteenth workshop on quantitative aspects of programming
+    languages and systems, qapl 2015, london, uk, 11th-12th april 2015.
+  collection-title: EPTCS
+  page: 16-31
+  volume: '194'
+  URL: http://dx.doi.org/10.4204/EPTCS.194
+  DOI: 10.4204/EPTCS.194
+
+- id: BC6
+  type: chapter
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Lluch-Lafuente
+    given: Alberto
+  - family: Loreti
+    given: Michele
+  - family: Margheri
+    given: Andrea
+  - family: Massink
+    given: Mieke
+  - family: Morichetta
+    given: Andrea
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  - family: Vandin
+    given: Andrea
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hölzl
+    given: Matthias M.
+  - family: Koch
+    given: Nora
+  - family: Mayer
+    given: Philip
+  year: 2015
+  title: 'The SCEL Language: Design, Implementation, Verification'
+  container-title: Software engineering for collective autonomic systems - the ascens
+    approach
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 3-71
+  volume: '8998'
+  URL: http://dx.doi.org/10.1007/978-3-319-16310-9
+  DOI: 10.1007/978-3-319-16310-9
+  ISBN: 978-3-319-16309-3
+
+- id: BC5
+  type: chapter
+  author:
+  - family: Abeywickrama
+    given: Dhaminda B.
+  - family: Combaz
+    given: Jacques
+  - family: Horký
+    given: Vojtech
+  - family: Keznikl
+    given: Jaroslav
+  - family: Kofron
+    given: Jan
+  - family: Lluch-Lafuente
+    given: Alberto
+  - family: Loreti
+    given: Michele
+  - family: Margheri
+    given: Andrea
+  - family: Mayer
+    given: Philip
+  - family: Monreale
+    given: Giacoma Valentina
+  - family: Montanari
+    given: Ugo
+  - family: Pinciroli
+    given: Carlo
+  - family: Tuma
+    given: Petr
+  - family: Vandin
+    given: Andrea
+  - family: Vassev
+    given: Emil
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hölzl
+    given: Matthias M.
+  - family: Koch
+    given: Nora
+  - family: Mayer
+    given: Philip
+  year: 2015
+  title: <span class="nocase">Tools for Ensemble Design and Runtime</span>
+  container-title: Software engineering for collective autonomic systems - the ascens
+    approach
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 429-448
+  volume: '8998'
+  URL: http://dx.doi.org/10.1007/978-3-319-16310-9
+
+- id: J12
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2014
+  title: <span class="nocase"> Revisiting Trace and Testing Equivalences for Nondeterministic
+    and Probabilistic Processes</span>
+  container-title: Logical Methods in Computer Science
+  page: 1-16
+  volume: '10'
+  issue: '1'
+  URL: http://arxiv.org/abs/1402.5365
+  DOI: 10.2168/LMCS-10(1:16)2014
+
+- id: J11
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: Gebler
+    given: Daniel
+  - family: Loreti
+    given: Michele
+  year: 2014
+  title: <span class="nocase">Report on OPCT 2014</span>
+  container-title: Bulletin of the EATCS
+  volume: '114'
+  URL: http://eatcs.org/beatcs/index.php/beatcs/article/view/289
+
+- id: J10
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  year: 2014
+  title: '<span class="nocase">A formal approach to autonomic systems programming:
+    The SCEL Language </span>'
+  container-title: ACM Transactions on Autonomous and Adaptive Systems
+  publisher: ACM
+  page: 7:1-7:29
+  volume: '9'
+  issue: '2'
+  URL: http://dl.acm.org/citation.cfm?id=2619998&CFID=390351528&CFTOKEN=91161148
+  ISBN: 1556-4665
+
+- id: J9
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2014
+  title: <span class="nocase">Relating strong behavioral equivalences for processes
+    with nondeterminism and probabilities</span>
+  container-title: Theoretical Computer Science
+  page: 63-92
+  volume: '546'
+  URL: http://www.sciencedirect.com/science/article/pii/S0304397514001765
+  DOI: http://dx.doi.org/10.1016/j.tcs.2014.03.001
+
+- id: C42
+  type: paper-conference
+  author:
+  - family: Hillston
+    given: Jane
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Weyns
+    given: Danny
+  - family: Michel
+    given: Fabien
+  year: 2014
+  title: <span class="nocase">Specification and Analysis of Open-Ended Systems with
+    CARMA</span>
+  container-title: Agent environments for multi-agent systems iv - 4th international
+    workshop, e4mas 2014 - 10 years later, paris, france, may 6, 2014, revised selected
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 95-116
+  volume: '9068'
+  URL: http://dx.doi.org/10.1007/978-3-319-23850-0_7
+  DOI: 10.1007/978-3-319-23850-0_7
+  ISBN: 978-3-319-23849-4
+
+- id: C40
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  - family: Ciancia
+    given: Vincenzo
+  editor:
+  - family: Dı́az
+    given: Josep
+  - family: Lanese
+    given: Ivan
+  - family: Sangiorgi
+    given: Davide
+  year: 2014
+  title: <span class="nocase">Specifying and Verifying Properties of Space</span>
+  container-title: Theoretical computer science - 8th IFIP TC 1/wg 2.2 international
+    conference, TCS 2014, rome, italy, september 1-3, 2014. Proceed
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 222-235
+  volume: '8705'
+  URL: http://dx.doi.org/10.1007/978-3-662-44602-7_18
+  DOI: 10.1007/978-3-662-44602-7_18
+  ISBN: 978-3-662-44601-0
+
+- id: C41
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  - family: Morichetta
+    given: Andrea
+  - family: Pugliese
+    given: Rosario
+  - family: Senni
+    given: Valerio
+  - family: Tiezzi
+    given: Francesco
+  - family: Alberto
+    given: Luch-Lafuente
+  editor:
+  - family: Bensalem
+    given: S.
+  - family: Lakhnech
+    given: Y.
+  - family: Legay
+    given: A.
+  year: 2014
+  title: <span class="nocase">Programming and Verifying Component Ensembles</span>
+  container-title: From programs to systems. The systems perspective in computing
+    - etaps workshop, fps 2014, in honor of joseph sifakis.
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 69-83
+  volume: '8415'
+  DOI: 10.1007/978-3-642-54848-2
+  ISBN: 978-3-642-54847-5
+
+- id: C39
+  type: paper-conference
+  author:
+  - family: Loreti
+    given: Michele
+  - family: Margheri
+    given: Andrea
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  editor:
+  - family: Margaria
+    given: Tiziana
+  - family: Steffen
+    given: Bernhard
+  year: 2014
+  title: <span class="nocase">On Programming and Policing Autonomic Computing Systems</span>
+  container-title: Leveraging applications of formal methods, verification and validation.
+    Technologies for mastering change - 6th international symposium, isola 2014, p
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 164-183
+  volume: '8802'
+  URL: http://dx.doi.org/10.1007/978-3-662-45234-9_12
+  DOI: 10.1007/978-3-662-45234-9_12
+  ISBN: 978-3-662-45233-2
+
+- id: C38
+  type: paper-conference
+  author:
+  - family: Ciancia
+    given: Vincenzo
+  - family: Gilmore
+    given: Stephen
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2014
+  title: '<span class="nocase">Data Verification for Collective Adaptive Systems:
+    Spatial Model-Checking of Vehicle Location Data</span>'
+  container-title: Eighth ieee international conference on self-adaptive and self-organizing
+    systems workshops, sasow 2014, london, united kingdom, september 8-12, 2014
+  publisher: IEEE Computer Society
+  page: 32-37
+  URL: http://dx.doi.org/10.1109/SASOW.2014.16
+  DOI: 10.1109/SASOW.2014.16
+  ISBN: 978-1-4799-6378-2
+
+- id: C37
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  - family: Senni
+    given: Valerio
+  editor:
+  - family: Bertrand
+    given: N.
+  - family: Bortolussi
+    given: L.
+  year: 2014
+  title: <span class="nocase">Stochastically timed predicate-based communication primitives
+    for autonomic computing</span>
+  container-title: Proceedings of 12th quantitative aspects of programming languages
+    and systems (qapl)
+  collection-title: Electronic proceedings in theoretical computer science
+  publisher: Open Publishing Association
+  page: 1-16
+  volume: '154'
+  DOI: 10.4204/EPTCS.154.1
+
+- id: C36
+  type: paper-conference
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Lanese
+    given: I.
+  - family: Lafuente
+    given: A. Lluch
+  - family: Sokolova
+    given: A.
+  - family: Vieira
+    given: H.
+  year: 2014
+  title: <span class="nocase">On-the-fly Probabilistic Model Checking</span>
+  container-title: Proc. Of 7th interaction and concurrency experience
+  collection-title: Electronic proceedings in theoretical computer science
+  page: To appear.
+
+- id: C34
+  type: chapter
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Abadi
+    given: Martín
+  - family: Lafuente
+    given: Alberto Lluch
+  year: 2014
+  title: <span class="nocase">Group-by-Group Probabilistic Bisimilarities and Their
+    Logical Characterizations</span>
+  container-title: Trustworthy global computing
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer International Publishing
+  page: 315-330
+  URL: http://dx.doi.org/10.1007/978-3-319-05119-2_18
+  DOI: 10.1007/978-3-319-05119-2_18
+  ISBN: 978-3-319-05118-5
+
+- id: C35
+  type: chapter
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Abadi
+    given: Martín
+  - family: Lafuente
+    given: Alberto Lluch
+  year: 2014
+  title: <span class="nocase">On-the-fly Fast Mean-Field Model-Checking</span>
+  container-title: Trustworthy global computing
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer International Publishing
+  page: 297-314
+  URL: http://dx.doi.org/10.1007/978-3-319-05119-2_17
+  DOI: 10.1007/978-3-319-05119-2_17
+
+- id: TR2
+  type: article-journal
+  author:
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2013
+  title: '<span class="nocase">On-the-fly Fast Mean-Field Model-Checking: Extended
+    Version</span>'
+  container-title: CoRR
+  volume: abs/1312.3
+  URL: http://arxiv.org/pdf/1312.3416v1
+
+- id: TR1
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2013
+  title: <span class="nocase">A Companion of "Relating Strong Behavioral Equivalences
+    for Processes with Nondeterminism and Probabilities"</span>
+  container-title: CoRR
+  volume: abs/1305.0
+  URL: http://arxiv.org/pdf/1305.0538v3
+
+- id: J9b
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2013
+  title: A uniform definition of stochastic process calculi
+  container-title: ACM Comput. Surv.
+  page: 5:1-5:35
+  volume: '46'
+  issue: '1'
+  URL: https://doi.org/10.1145/2522968.2522973
+  DOI: 10.1145/2522968.2522973
+
+- id: J8
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2013
+  title: <span class="nocase">A uniform framework for modeling nondeterministic, probabilistic,
+    stochastic, or mixed processes and their behavioral equivalences</span>
+  container-title: Inf. Comput.
+  page: 29-82
+  volume: '225'
+  issue: '1'
+  DOI: 10.1016/j.ic.2013.02.004
+
+- id: C33
+  type: paper-conference
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Bortolussi
+    given: Luca
+  - family: Wiklicky
+    given: Herbert
+  year: 2013
+  title: <span class="nocase">The Spectrum of Strong Behavioral Equivalences for Nondeterministic
+    and Probabilistic Processes</span>
+  container-title: Proceedings 11th international workshop on quantitative aspects
+    of programming languages and systems, qapl 2013
+  collection-title: Electronic proceedings in theoretical computer science
+  page: 81-96
+  volume: '117'
+  URL: http://arxiv.org/pdf/1306.2696v1.pdf
+  DOI: 10.4204/EPTCS.117.6
+
+- id: C32
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Ferrari
+    given: Gian Luigi
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  editor:
+  - family: Beckert
+    given: Bernhard
+  - family: Damiani
+    given: Ferruccio
+  - family: Boer
+    given: Frank S.
+    dropping-particle: de
+  - family: Bonsangue
+    given: Marcello M.
+  year: 2013
+  title: <span class="nocase">A Language-Based Approach to Autonomic Computing</span>
+  container-title: Formal methods for components and objects, 10th international symposium,
+    fmco 2011
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 25-48
+  volume: '7542'
+  URL: http://rap.dsi.unifi.it/scel/pdf/LNCS-SCEL-FMCO11.pdf
+  DOI: 10.1007/978-3-642-35887-6_2
+
+- id: C31
+  type: paper-conference
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Birkedal
+    given: Lars
+  year: 2012
+  title: <span class="nocase">Revisiting Trace and Testing Equivalences for Nondeterministic
+    and Probabilistic Processes</span>
+  container-title: Foundations of software science and computational structures -
+    15th international conference, fossacs 2012
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 195-209
+  volume: '7213'
+  DOI: 10.1007/978-3-642-28729-9_13
+
+- id: C30
+  type: paper-conference
+  author:
+  - family: Gjondrekaj
+    given: Edmond
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  - family: Pinciroli
+    given: Carlo
+  - family: Brambilla
+    given: Manuele
+  - family: Birattari
+    given: Mauro
+  - family: Dorigo
+    given: Marco
+  editor:
+  - family: Aoki
+    given: Toshiaki
+  - family: Taguchi
+    given: Kenji
+  year: 2012
+  title: <span class="nocase">Towards a Formal Verification Methodology for Collective
+    Robotic Systems</span>
+  container-title: Formal methods and software engineering - 14th international conference
+    on formal engineering methods, icfem 2012
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 54-70
+  volume: '7635'
+  DOI: 10.1007/978-3-642-34281-3_7
+
+- id: C29
+  type: paper-conference
+  author:
+  - family: Gjondrekaj
+    given: Edmond
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  editor:
+  - family: Ossowski
+    given: Sascha
+  - family: Lecca
+    given: Paola
+  year: 2012
+  title: <span class="nocase">Modeling adaptation with a tuple-based coordination
+    language</span>
+  container-title: Proceedings of the acm symposium on applied computing, sac 2012
+  publisher: ACM
+  page: 1522-1527
+  DOI: 10.1145/2245276.2232019
+
+- id: C28
+  type: paper-conference
+  author:
+  - family: D’Errico
+    given: Liliana
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Bruni
+    given: Roberto
+  - family: Sassone
+    given: Vladimiro
+  year: 2011
+  title: <span class="nocase">Context Aware Specification and Verification of Distributed
+    Systems</span>
+  container-title: Trustworthy global computing - 6th international symposium, tgc
+    2011
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 142-159
+  volume: '7173'
+  DOI: 10.1007/978-3-642-30065-3_9
+
+- id: C27
+  type: paper-conference
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Aceto
+    given: Luca
+  - family: Mousavi
+    given: Mohammad Reza
+  year: 2011
+  title: <span class="nocase">Uniform Labeled Transition Systems for Nondeterministic,
+    Probabilistic, and Stochastic Process Calculi</span>
+  container-title: Proceedings first international workshop on process algebra and
+    coordination, paco 2011
+  collection-title: Electronic proceedings in theoretical computer science
+  page: 66-75
+  volume: '60'
+  DOI: 10.4204/EPTCS.60.5
+
+- id: BC3
+  type: chapter
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hölzl
+    given: Matthias M.
+  year: 2011
+  title: 'SoSL: A Service-Oriented Stochastic Logic'
+  container-title: Results of the sensoria project
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 447-466
+  volume: '6582'
+  DOI: 10.1007/978-3-642-20401-2_21
+
+- id: BC2
+  type: chapter
+  author:
+  - family: Cappello
+    given: Igor
+  - family: Clark
+    given: Allan
+  - family: Gilmore
+    given: Stephen
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Quaglia
+    given: Paola
+  - family: Schivo
+    given: Stefano
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hölzl
+    given: Matthias M.
+  year: 2011
+  title: <span class="nocase">Quantitative Analysis of Services</span>
+  container-title: Results of the sensoria project
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 522-540
+  volume: '6582'
+  DOI: 10.1007/978-3-642-20401-2_25
+
+- id: BC1
+  type: chapter
+  author:
+  - family: Beek
+    given: Maurice H. ter
+  - family: Lapadula
+    given: Alessandro
+  - family: Loreti
+    given: Michele
+  - family: Palasciano
+    given: Claudio
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hölzl
+    given: Matthias M.
+  year: 2011
+  title: <span class="nocase">Analysing Robot Movement Using the Sensoria Methods</span>
+  container-title: Results of the sensoria project
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 678-697
+  volume: '6582'
+
+- id: C26
+  type: paper-conference
+  author:
+  - family: Calzolai
+    given: Francesco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Clarke
+    given: Dave
+  - family: Agha
+    given: Gul A.
+  year: 2010
+  title: <span class="nocase">Simulation and Analysis of Distributed Systems in Klaim</span>
+  container-title: Coordination models and languages, 12th international conference,
+    coordination 2010
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 122-136
+  volume: '6116'
+
+- id: C25
+  type: paper-conference
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hofmann
+    given: Martin
+  - family: Rauschmayer
+    given: Axel
+  year: 2010
+  title: <span class="nocase">Uniform Labeled Transition Systems for Nondeterministic,
+    Probabilistic, and Stochastic Processes</span>
+  container-title: Trustworthly global computing - 5th international symposium, tgc
+    2010
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 35-56
+  volume: '6084'
+
+- id: C24
+  type: paper-conference
+  author:
+  - family: D’Errico
+    given: Liliana
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Hofmann
+    given: Martin
+  - family: Rauschmayer
+    given: Axel
+  year: 2010
+  title: <span class="nocase">Property-Preserving Refinement of Concurrent Systems</span>
+  container-title: Trustworthly global computing - 5th international symposium, tgc
+    2010
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 222-236
+  volume: '6084'
+
+- id: EJ5
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2009
+  title: '<span class="nocase">MarCaSPiS: a Markovian Extension of a Calculus for
+    Services</span>'
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 11-26
+  volume: '229'
+  issue: '4'
+
+- id: C23
+  type: paper-conference
+  author:
+  - family: D’Errico
+    given: Liliana
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Field
+    given: John
+  - family: Vasconcelos
+    given: Vasco Thudichum
+  year: 2009
+  title: <span class="nocase">Assume-Guarantee Verification of Concurrent Systems</span>
+  container-title: Coordination models and languages, 11th international conference,
+    coordination 2009
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 288-305
+  volume: '5521'
+
+- id: C22
+  type: paper-conference
+  author:
+  - family: D’Errico
+    given: Liliana
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Paulo Carvalho
+    given: Jo
+    dropping-particle: ao
+  - family: Dubois
+    given: Didier
+  - family: Kaymak
+    given: Uzay
+  - family: Miguel da Costa Sousa
+    given: Jo
+    dropping-particle: ao
+  year: 2009
+  title: <span class="nocase">A process Algebra Approach to Fuzzy Reasoning</span>
+  container-title: Proceedings of the joint 2009 international fuzzy systems association
+    world congress and 2009 european society of fuzzy logic and technology conferenc
+  page: 1136-1141
+
+- id: C21
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Mar\ia Alpuente
+  - family: Cook
+    given: Byron
+  - family: Joubert
+    given: Christophe
+  year: 2009
+  title: <span class="nocase">On a Uniform Framework for the Definition of Stochastic
+    Process Languages</span>
+  container-title: Formal methods for industrial critical systems, 14th international
+    workshop, fmics 2009
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 9-25
+  volume: '5825'
+
+- id: C20
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  editor:
+  - family: Albers
+    given: Susanne
+  - family: Marchetti-Spaccamela
+    given: Alberto
+  - family: Matias
+    given: Yossi
+  - family: Nikoletseas
+    given: Sotiris E.
+  - family: Thomas
+    given: Wolfgang
+  year: 2009
+  title: <span class="nocase">Rate-Based Transition Systems for Stochastic Process
+    Calculi</span>
+  container-title: ICALP (2)
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 435-446
+  volume: '5556'
+
+- id: J7
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2008
+  title: <span class="nocase">Modelling global computations with Klaim</span>
+  container-title: 'Philosophical Transactions of the Royal Society of London A:
+    Mathematical, Physical and Engineering Sciences'
+  publisher: The Royal Society
+  page: 3737-3745
+  volume: '366'
+  issue: '1881'
+  abstract: A new area of research, known as Global Computing, is by now well established.
+    It aims at defining new models of computation based on code and data mobility
+    over wide-area networks with highly dynamic topologies, and at providing infrastructures
+    to support coordination and control of components originating from different,
+    possibly untrusted, fault-prone, malicious or selfish sources. In this paper,
+    we present our contribution to the field of Global Computing that is centred on
+    Kernel Language for Agents Interaction and Mobility (Klaim). Klaim is an experimental
+    language specifically designed to programme distributed systems consisting of
+    several mobile components that interact through multiple distributed tuple spaces.
+    We present some of the key notions of the language and discuss how its formal
+    semantics can be exploited to reason about qualitative and quantitative aspects
+    of the specified systems.
+  URL: http://rsta.royalsocietypublishing.org/content/366/1881/3737
+  DOI: 10.1098/rsta.2008.0148
+
+- id: J6
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2008
+  title: <span class="nocase">Multiple-Labelled Transition Systems for nominal calculi
+    and their logics</span>
+  container-title: Mathematical Structures in Computer Science
+  page: 107-143
+  volume: '18'
+  issue: '1'
+
+- id: J5
+  type: article-journal
+  author:
+  - family: Calzolai
+    given: Francesco
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  - family: Tiezzi
+    given: Francesco
+  year: 2008
+  title: '<span class="nocase">TAPAs: A Tool for the Analysis of Process Algebras</span>'
+  container-title: T. Petri Nets and Other Models of Concurrency
+  page: 54-70
+  volume: '1'
+
+- id: C19
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Lea
+    given: Doug
+  - family: Zavattaro
+    given: Gianluigi
+  year: 2008
+  title: Implementing Session Centered Calculi
+  container-title: Coordination models and languages, 10th international conference,
+    coordination 2008
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 17-32
+  volume: '5052'
+
+- id: C18
+  type: paper-conference
+  author:
+  - family: Boreale
+    given: Michele
+  - family: Bruni
+    given: Roberto
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Barthe
+    given: Gilles
+  - family: Boer
+    given: Frank S.
+    dropping-particle: de
+  year: 2008
+  title: <span class="nocase">Sessions and Pipelines for Structured Service Programming</span>
+  container-title: Formal methods for open object-based distributed systems, 10th
+    ifip wg 6.1 international conference, fmoods 2008
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 19-38
+  volume: '5051'
+
+- id: C17
+  type: paper-conference
+  author:
+  - family: Massink
+    given: Mieke
+  - family: Latella
+    given: Diego
+  - family: Beek
+    given: Maurice H. ter
+  - family: Harrison
+    given: Michael D.
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Forbrig
+    given: Peter
+  - family: Paternò
+    given: Fabio
+  year: 2008
+  title: <span class="nocase">A Fluid Flow Approach to Usability Analysis of Multi-user
+    Systems</span>
+  container-title: Engineering interactive systems, second conference on human-centered
+    software engineering, hcse 2008, and 7th international workshop on task models
+    an
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 166-180
+  volume: '5247'
+
+- id: C16
+  type: paper-conference
+  author:
+  - family: Bravetti
+    given: Mario
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  - family: Zavattaro
+    given: Gianluigi
+  editor:
+  - family: Kaklamanis
+    given: Christos
+  - family: Nielson
+    given: Flemming
+  year: 2008
+  title: <span class="nocase">Combining Timed Coordination Primitives and Probabilistic
+    Tuple Spaces</span>
+  container-title: TGC
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 52-68
+  volume: '5474'
+
+- id: C15
+  type: paper-conference
+  author:
+  - family: Bruni
+    given: Roberto
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  - family: Mezzina
+    given: Leonardo Gaetano
+  editor:
+  - family: Kaklamanis
+    given: Christos
+  - family: Nielson
+    given: Flemming
+  year: 2008
+  title: <span class="nocase">Provably Correct Implementations of Services</span>
+  container-title: Trustworthy global computing, 4th international symposium, tgc
+    2008
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 69-86
+  volume: '5474'
+
+- id: EJ4
+  type: article-journal
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Falassi
+    given: Daniele
+  - family: Loreti
+    given: Michele
+  year: 2007
+  title: <span class="nocase">Implementing a Distributed Mobile Calculus Using the
+    IMC Framework</span>
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 63-79
+  volume: '181'
+
+- id: J4
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Katoen
+    given: Pieter
+  - family: Latella
+    given: Diego
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  year: 2007
+  title: <span class="nocase">Model checking mobile stochastic logic</span>
+  container-title: Theor. Comput. Sci.
+  page: 42-70
+  volume: '382'
+  issue: '1'
+
+- id: C14
+  type: paper-conference
+  author:
+  - family: D’Errico
+    given: Liliana
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Italiano
+    given: Giuseppe F.
+  - family: Moggi
+    given: Eugenio
+  - family: Laura
+    given: Luigi
+  year: 2007
+  title: <span class="nocase">Modeling Fuzzy Behaviours in Concurrent Systems</span>
+  container-title: Theoretical computer science, 10th italian conference, ictcs 2007
+  publisher: World Scientific
+  page: 94-105
+
+- id: C13
+  type: paper-conference
+  author:
+  - family: Manganaro
+    given: Andrea
+  - family: Koblensky
+    given: Mingyur
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Obaidat
+    given: Mohammad S.
+  - family: Lecha
+    given: Victor Peral
+  - family: Caldeirinha
+    given: Rafael F. S.
+  year: 2007
+  title: <span class="nocase">Design of a Password-based Authentication Method for
+    Wireless Networks</span>
+  container-title: WINSYS 2007 - proceedings of the international conference on wireless
+    information networks and systems
+  publisher: INSTICC Press
+  page: 9-16
+
+- id: EJ3
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2007
+  title: '<span class="nocase">Multi Labelled Transition Systems: A Semantic Framework
+    for Nominal Calculi</span>'
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 133-146
+  volume: '169'
+
+- id: J3
+  type: article-journal
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2006
+  title: <span class="nocase">Implementing Mobile and Distributed Applications in
+    X-Klaim</span>
+  container-title: 'Scalable Computing: Practice and Experience'
+  volume: '7'
+  issue: '4'
+
+- id: C12
+  type: paper-conference
+  author:
+  - family: Crescenzi
+    given: Pilu
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  editor:
+  - family: Davoli
+    given: Renzo
+  - family: Goldweber
+    given: Michael
+  - family: Salomoni
+    given: Paola
+  year: 2006
+  title: '<span class="nocase">Assessing CS1 java skills: a three-year experience</span>'
+  container-title: Proceedings of the 11th annual sigcse conference on innovation
+    and technology in computer science education, iticse 2006
+  publisher: ACM Press
+  page: '348'
+
+- id: C11
+  type: paper-conference
+  author:
+  - family: Boreale
+    given: Michele
+  - family: Bruni
+    given: Roberto
+  - family: Caires
+    given: Rocco
+    suffix: Lu\is and De Nicola
+  - family: Lanese
+    given: Ivan
+  - family: Loreti
+    given: Michele
+  - family: Martins
+    given: Francisco
+  - family: Montanari
+    given: Ugo
+  - family: Ravara
+    given: António
+  - family: Sangiorgi
+    given: Davide
+  - family: Vasconcelos
+    given: Vasco Thudichum
+  - family: Zavattaro
+    given: Gianluigi
+  editor:
+  - family: Bravetti
+    given: Mario
+  - family: nez
+    given: Manuel Nú
+  - family: Zavattaro
+    given: Gianluigi
+  year: 2006
+  title: 'SCC: A Service Centered Calculus'
+  container-title: Web services and formal methods, third international workshop ws-fm
+    2006
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 38-57
+  volume: '4184'
+
+- id: C10
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Falassi
+    given: Daniele
+  - family: Lacoste
+    given: Marc
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Kutvonen
+    given: Lea
+  - family: Alonistioti
+    given: Nancy
+  year: 2005
+  title: <span class="nocase">A Flexible and Modular Framework for Implementing Infrastructures
+    for Global Computing</span>
+  container-title: Distributed applications and interoperable systems, 5th ifip wg
+    6.1 international conference, dais 2005
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 181-193
+  volume: '3543'
+
+- id: C9
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Boer
+    given: Frank S.
+    dropping-particle: de
+  - family: Bonsangue
+    given: Marcello M.
+  - family: Graf
+    given: Susanne
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  year: 2004
+  title: '<span class="nocase">MoMo: A Modal Logic for Reasoning About Mobility</span>'
+  container-title: Formal methods for components and objects, third international
+    symposium, fmco 2004
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 95-119
+  volume: '3657'
+
+- id: J2
+  type: article-journal
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2004
+  title: '<span class="nocase">Formulae Meet Programs Over the Net: A Framework
+    for Correct Network Aware Programming</span>'
+  container-title: Autom. Softw. Eng.
+  page: 245-288
+  volume: '11'
+  issue: '3'
+
+- id: J1
+  type: article-journal
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2004
+  title: <span class="nocase">A modal logic for mobile agents</span>
+  container-title: ACM Trans. Comput. Log.
+  page: 79-128
+  volume: '5'
+  issue: '1'
+
+- id: C8
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: Crescenzi
+    given: Pilu
+  - family: Innocenti
+    given: Gaia
+  - family: Loreti
+    given: Michele
+  - family: Cecchi
+    given: Leonardo
+  editor:
+  - family: Kinshuk
+  - family: Looi
+    given: Kit
+  - family: Sutinen
+    given: Erkki
+  - family: Sampson
+    given: Demetrios G.
+  - family: Aedo
+    given: Ignacio
+  - family: Uden
+    given: Lorna
+  - family: Kähkönen
+    given: Esko
+  year: 2004
+  title: <span class="nocase">An Environment for Self-Assessing Java Programming Skills
+    in Undergraduate First Programming Courses</span>
+  container-title: Proceedings of the ieee international conference on advanced learning
+    technologies, icalt 2004
+  publisher: IEEE Computer Society
+
+- id: C7
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: Bono
+    given: Viviana
+  - family: De Nicola
+    given: Rocco
+  - family: Ferrari
+    given: Gian Luigi
+  - family: Gorla
+    given: Daniele
+  - family: Loreti
+    given: Michele
+  - family: Moggi
+    given: Eugenio
+  - family: Pugliese
+    given: Rosario
+  - family: Tuosto
+    given: Emilio
+  - family: Venneri
+    given: Betti
+  editor:
+  - family: Priami
+    given: Corrado
+  year: 2003
+  title: '<span class="nocase">The Klaim Project: Theory and Practice</span>'
+  container-title: Global computing. Programming environments, languages, security,
+    and analysis of systems, ist/fet international workshop, gc 2003
+  publisher: Springer
+  page: 88-150
+  volume: '2874'
+
+- id: C6
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Arbab
+    given: Farhad
+  - family: Talcott
+    given: Carolyn L.
+  year: 2002
+  title: <span class="nocase">Formalizing Properties of Mobile Agent Systems</span>
+  container-title: COORDINATION
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 72-87
+  volume: '2315'
+
+- id: C5
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  year: 2002
+  title: <span class="nocase">Software update via mobile agent based programming</span>
+  container-title: Proceedings of the 2002 acm symposium on applied computing (sac)
+  publisher: ACM Press
+  page: 32-36
+
+- id: C4
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  year: 2002
+  title: <span class="nocase">An infrastructure language for open nets</span>
+  container-title: Proceedings of the 2002 acm symposium on applied computing (sac)
+  publisher: ACM Press
+  page: 373-377
+
+- id: C3
+  type: paper-conference
+  author:
+  - family: Andrade
+    given: Luis Filipe
+  - family: Baldan
+    given: Paolo
+  - family: Baumeister
+    given: Hubert
+  - family: Bruni
+    given: Roberto
+  - family: Corradini
+    given: Andrea
+  - family: De Nicola
+    given: Rocco
+  - family: Fiadeiro
+    given: José Luiz
+  - family: Gadducci
+    given: Fabio
+  - family: Gnesi
+    given: Stefania
+  - family: Hoffman
+    given: Piotr
+  - family: Koch
+    given: Nora
+  - family: Kosiuczenko
+    given: Piotr
+  - family: Lapadula
+    given: Alessandro
+  - family: Latella
+    given: Diego
+  - family: Lopes
+    given: Antónia
+  - family: Loreti
+    given: Michele
+  - family: Massink
+    given: Mieke
+  - family: Mazzanti
+    given: Franco
+  - family: Montanari
+    given: Ugo
+  - family: Oliveira
+    given: Cristóv ao
+  - family: Pugliese
+    given: Rosario
+  - family: Tarlecki
+    given: Andrzej
+  - family: Wermelinger
+    given: Michel
+  - family: Wirsing
+    given: Martin
+  - family: Zawlocki
+    given: Artur
+  editor:
+  - family: Wirsing
+    given: Martin
+  - family: Pattinson
+    given: Dirk
+  - family: Hennicker
+    given: Rolf
+  year: 2002
+  title: '<span class="nocase">AGILE: Software Architecture for Mobility</span>'
+  container-title: Recent trends in algebraic development techniques, 16th international
+    workshop, wadt 2002
+  page: 1-33
+  volume: '2755'
+
+- id: EJ1
+  type: article-journal
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  year: 2001
+  title: <span class="nocase">Modelling Node Connectivity in Dynamically Evolving
+    Networks</span>
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 81-91
+  volume: '54'
+
+- id: EJ2
+  type: article-journal
+  author:
+  - family: Capitani
+    given: Beatrice
+  - family: Loreti
+    given: Michele
+  - family: Venneri
+    given: Betti
+  year: 2001
+  title: <span class="nocase">Hyperformulae, Parallel Deductions and Intersection
+    Types</span>
+  container-title: Electr. Notes Theor. Comput. Sci.
+  page: 178-195
+  volume: '50'
+  issue: '2'
+
+- id: C2
+  type: paper-conference
+  author:
+  - family: De Nicola
+    given: Rocco
+  - family: Loreti
+    given: Michele
+  editor:
+  - family: Rus
+    given: Teodor
+  year: 2000
+  title: <span class="nocase">A Modal Logic for KLAIM</span>
+  container-title: Algebraic methodology and software technology. 8th international
+    conference, amast 2000
+  collection-title: Lecture Notes in Computer Science
+  publisher: Springer
+  page: 339-354
+  volume: '1816'
+
+- id: C1
+  type: paper-conference
+  author:
+  - family: Bettini
+    given: Lorenzo
+  - family: Loreti
+    given: Michele
+  - family: Pugliese
+    given: Rosario
+  year: 2000
+  title: <span class="nocase">Structured Nets in KLAIM</span>
+  container-title: Applied computing 2000, proceedings of the 2000 acm symposium on
+    applied computing
+  publisher: ACM Press
+  page: 174-180
+  volume: '1'
+...

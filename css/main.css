@@ -392,6 +392,22 @@ footer .theme-by {
   }
 }
 
+/* --- Papers --- */
+
+.paper-preview {
+  margin-top: 5px;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 768px) {
+  .paper-preview {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+}
+
+
 /* --- Tags --- */
 
 .blog-tags {

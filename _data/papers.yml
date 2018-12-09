@@ -1,0 +1,256 @@
+- key: J23
+  type: article
+  authors: [Maurice H. ter Beek, Michele Loreti]
+  title: Guest Editorial for the Special Issue on FORmal methods for the quantitative Evaluation of Collective Adaptive SysTems (FORECAST)
+  journal: ACM Transactions on Modeling and Computer Simulation (TOMACS)
+  volume: 28
+  number: 2
+  pages: 8:1--8:4
+  year: 2018
+  published: true
+  link: "http://doi.acm.org/10.1145/3177772"
+  doi: 10.1145/3177772
+
+- key: J22
+  type: article
+  authors: 
+    - Vincenzo Ciancia
+    - Stephen Gilmore
+    - Gianluca Grilletti
+    - Diego Latella
+    - Michele Loreti
+    - Mieke Massink  
+  title: Spatio-temporal model checking of vehicular movement in public transport systems
+  journal:  STTT
+  volume: 20
+  number: 3
+  published: true
+  pages: 289--311
+  year: 2018
+  link: "https://doi.org/10.1007/s10009-018-0483-8"
+  doi: 10.1007/s10009-018-0483-8
+
+- key: J21
+  type: article
+  authors:
+    - Michele Loreti
+  title: Replicated Computations Results (RCR) Report for "Mesoscopic Modelling of Pedestrian Movement using Carma and its Tools"
+  journal: ACM Transactions on Modeling and Computer Simulation (TOMACS)
+  published: true
+  volume: 28
+  number: 2
+  pages: 12:1--12:3
+  year: 2018
+  link: "http://doi.acm.org/10.1145/3177773"
+  doi: 10.1145/3177773
+
+- key:  C62
+  type: proceedings
+  authors:
+    - Vashti Galpin
+    - Anastasis Georgoulas
+    - Michele Loreti
+    - Andrea Vandin
+  title: "Statistical model checking of CARMA models using MultiVeSta: an advanced tutorial"
+  booktitle: Proceedings of Winter Simulation Conference 2018
+  year: 2018
+  published: false 
+
+- key: C61
+  type: proceedings
+  authors:
+    - Yehia Abd Alrahman
+    - Rocco De Nicola
+    - Giulio Garbi
+    - Michele Loreti
+  title: A Distributed Coordination Infrastructure for Attribute-based Interaction
+  booktitle: Proceedings of Formal Techniques for Distributed Objects, Components, and Systems 2018
+  editors: 
+    - Christel Baier
+    - Luís Caires
+  published: true
+  year: 2018
+  series: Lecture Notes in Computer Science
+  publisher: Springer
+  pages: 1--20
+  volume: 10854
+  link: "https://link.springer.com/chapter/10.1007%2F978-3-319-92612-4_1"
+
+- key: C60
+  type: proceedings
+  authors:
+    - Diego Latella
+    - Michele Loreti
+    - Mieke Massink},
+  title: "FlyFast: A Scalable Approach to Probabilistic Model-Checking Based on Mean-Field Approximation"
+  booktitle: ModelEd, TestEd, TrustEd - Essays Dedicated to Ed Brinksma on the Occasion of His 60th Birthday
+  pages: 254--275
+  year: 2017
+  doi: 10.1007/978-3-319-68270-9_13
+  editors: 
+    - Joost-Pieter Katoen
+    - Rom Langerak
+    - Arend Rensink
+  series: Lecture Notes in Computer Science
+  volume: 10500
+  publisher: Springer
+  published: true
+
+- key: C59,
+  type: proceedings
+  authors:  
+    - Ezio Bartocci
+    - Luca Bortolussi
+    - Michele Loreti
+    - Laura Nenzi
+  title: Monitoring mobile and spatially distributed cyber-physical systems
+  booktitle: Proceedings of the 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017)
+  pages: 146--155
+  year: 2017
+  doi: 10.1145/3127041.3127050
+  editors:
+    - Jean-Pierre Talpin
+    - Patricia Derler
+    - Klaus Schneider
+  publisher: ACM
+  year: 2017
+  isbn: 978-1-4503-5093-8
+  published: true
+  
+- key: C58
+  type: proceedings
+  authors:
+    - Ludovica Luisa Vissat
+    - Michele Loreti
+    - Laura Nenzi
+    - Jane Hillston
+    - Glenn Marion
+  title: "Three-Valued Spatio-Temporal Logic: A Further Analysis on Spatio-Temporal Properties of Stochastic Systems"
+  booktitle: "Quantitative Evaluation of Systems - 14th International Conference (QEST 2017)"
+  pages: 317--332
+  year: 2017
+  link: https://doi.org/10.1007/978-3-319-66335-7_22
+  doi: 10.1007/978-3-319-66335-7_22
+  editors:
+     - Nathalie Bertrand
+     - Luca Bortolussi
+  series: Lecture Notes in Computer Science
+  volume: 10503
+  publisher: Springer
+  published: true
+
+- key: C57
+  type: proceedings
+  authors:
+    - Diego Latella
+    - Michele Loreti
+    - Mieke Massink
+  title: "FlyFast: A Mean Field Model Checker"
+  booktitle: Tools and Algorithms for the Construction and Analysis of Systems - 23rd International Conference (TACAS 2017)
+  pages: 303--309
+  year: 2017
+  doi: 10.1007/978-3-662-54580-5_18
+  editors:
+    - Axel Legay
+    - Tiziana Margaria
+  series: Lecture Notes in Computer Science
+  volume: 10206
+  year: 2017
+  published: true
+  
+- key: J20
+  type: article
+  authors:
+    - Alberto Lluch-Lafuente
+    - Michele Loreti
+    - Ugo Montanari
+  title: Asynchronous Distributed Execution Of Fixpoint-Based Computational Fields
+  journal: Logical Methods in Computer Science
+  volume: 13
+  number: 1
+  year: 2017
+  link: "https://doi.org/10.23638/LMCS-13(1:13)2017"
+  doi: 10.23638/LMCS-13(1:13)2017
+  published: true
+  
+- key: C56
+  type: proceedings
+  title: Programming of CAS Systems by Relying on Attribute-Based Communication
+  authors:
+    - Yehia Abd Alrahman 
+    - Rocco De Nicola
+    - Michele Loreti
+  booktitle: "Leveraging Applications of Formal Methods, Verification and Validation: Foundational Techniques - 7th International Symposium (ISoLA 2016)"
+  editors:
+    - Tiziana Margaria
+    - Bernhard Steffen
+  pages: 539--553
+  volume: 9952
+  year: 2016
+  link: "http://dx.doi.org/10.1007/978-3-319-47166-2_38"
+  series: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-319-47166-2_38
+  isbn: 978-3-319-47165-5
+  published: true
+  
+- key: C55
+  type: proceedings
+  title: On the Power of Attribute-Based Communication
+  authors:
+    - Yehia Abd Alrahman
+    - Rocco De Nicola
+    - Michele Loreti
+  booktitle: "Formal Techniques for Distributed Objects, Components, and Systems - 36th IFIP WG 6.1 International Conference (FORTE 2016)"
+  editors:
+    - Elvira Albert
+    - Ivan Lanese
+  pages: 1--18
+  volume: 9688
+  year: 2016
+  link: "http://dx.doi.org/10.1007/978-3-319-39570-8"
+  publisher: Springer
+  series: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-319-39570-8
+  isbn: 978-3-319-39569-2
+  published: true
+  
+- key: C54
+  type: proceedings
+  title: "CARMA Eclipse Plug-in: A Tool Supporting Design and Analysis of Collective Adaptive Systems"
+  authors:
+    - Jane Hillston
+    - Michele Loreti
+  booktitle: "Quantitative Evaluation of Systems - 13th International Conference (QEST 2016)"
+  editors:
+    - Gul Agha
+    - Benny Van Houdt
+  pages: 167--171
+  volume: 9826
+  year: 2016
+  link: "http://dx.doi.org/10.1007/978-3-319-43425-4_12"
+  publisher: Springer
+  series: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-319-43425-4_12
+  isbn: 978-3-319-43424-7
+  published: true
+  
+- key: C53
+  title: Modelling and Analysis of Collective Adaptive Systems with CARMA and its Tools
+  authors:
+    - Michele Loreti
+    - Jane Hillston
+  booktitle: "Formal Methods for the Quantitative Evaluation of Collective Adaptive Systems - 16th International School on Formal Methods for the Design of Computer"
+  editors:
+    - Marco Bernardo
+    - Rocco De Nicola
+    - Jane Hillston
+  pages: 83--119
+  volume: 9700
+  year: 2016
+  link: "http://dx.doi.org/10.1007/978-3-319-34096-8"
+  publisher: Springer
+  series: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-319-34096-8
+  isbn: 978-3-319-34095-1
+  published: true
+  
