@@ -3,7 +3,7 @@ layout: page
 use-site-title: false
 ---
 
-I am Associate Professor in Computer Science at [University of Camerino](http://www.unicam.it) within the [School of Science and Technology](http://sst.unicam.it) ([Computer Science division](http://www.cs.unicam.it)). 
+I am Full Professor in Computer Science at [University of Camerino](http://www.unicam.it) within the [School of Science and Technology](http://sst.unicam.it) ([Computer Science division](http://www.cs.unicam.it)). 
 
 I have been Research Associate at University of Firenze from 2002 till 2017. From 2012 to 2016 I have been Visiting Professor at _IMT Institute for Advanced Studies_ within the SYSMA Group. 
 
